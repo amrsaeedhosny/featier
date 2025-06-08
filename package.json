@@ -2,6 +2,14 @@
   "name": "featier",
   "version": "1.0.0",
   "description": "A simple feature flag package.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amrsaeedhosny/featier.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amrsaeedhosny/featier/issues"
+  },
+  "homepage": "https://github.com/amrsaeedhosny/featier#readme",
   "main": "index.js",
   "scripts": {
     "test": "vitest run"
