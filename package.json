@@ -1,13 +1,13 @@
 {
   "name": "featier",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple feature flag package.",
   "main": "index.js",
   "scripts": {
     "test": "vitest run"
   },
   "keywords": [],
-  "author": "",
+  "author": "Amr Saeed",
   "license": "ISC",
   "devDependencies": {
     "ts-node": "^10.9.2",
